@@ -21,7 +21,7 @@ Percentage: 94.4%
 ## 🛠️ Skills
 
 **Languages:**  
-Python &nbsp;&bull;&nbsp; C++ &nbsp;&bull;&nbsp; JAVA &nbsp;&bull;&nbspSQL
+Python &nbsp;&bull;&nbsp; C++ &nbsp;&bull;&nbsp; JAVA &nbsp;&bull;SQL
 
 **Frameworks & APIs:**  
 FastAPI &nbsp;&bull;&nbsp; Hadoop &nbsp;&bull;&nbsp; Spark &nbsp;&bull;&nbsp; Kafka
