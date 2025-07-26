@@ -43,6 +43,12 @@ Microservices &nbsp;&bull;&nbsp; REST API &nbsp;&bull;&nbsp; Distributed Systems
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshkumatgi&layout=compact)
 
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/sandeshkumatgi)
+- [Portfolio](https://your-portfolio.com)
+- [Email](mailto:kumatgisandesh@gmail.com)
+- [LeetCode](https://leetcode.com/u/kumatgisandesh/)
 
 
 ---
