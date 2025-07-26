@@ -46,7 +46,7 @@ Microservices &nbsp;&bull;&nbsp; REST API &nbsp;&bull;&nbsp; Distributed Systems
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/sandeshkumatgi)
-- [Portfolio](https://your-portfolio.com)
+- [Portfolio](https://sandesh-kumatgi-h8xlzbo.gamma.site/)
 - [Email](mailto:kumatgisandesh@gmail.com)
 - [LeetCode](https://leetcode.com/u/kumatgisandesh/)
 
